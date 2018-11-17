@@ -73,6 +73,7 @@ const styles = {
   mainImage: {
     height: 300,
     flex: 1,
+    marginBottom: 2
   },
   buttonWrapper: {
     justifyContent: 'center',
