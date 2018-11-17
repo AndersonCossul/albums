@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 
-import AlbumDetail from './components/AlbumDetail/AlbumDetail';
+import AlbumDetail from './AlbumDetail';
 
 class AlbumList extends React.Component {
   state = {
